@@ -533,7 +533,7 @@ For any issues that occur after Corpay receives a vendor payment .txt file from 
 
 [Overview](#overview)
 
-https://github.com
+[Github link](https://github.com)
 
 ```python
 Print("Hello, World")
