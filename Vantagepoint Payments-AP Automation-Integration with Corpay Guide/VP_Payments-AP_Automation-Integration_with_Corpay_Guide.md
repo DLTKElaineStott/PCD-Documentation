@@ -67,6 +67,7 @@
 # Github Testing File
 # Overview
 ## GitHub Test Case 5
+### GitHub Test Case 8
 
 Use Vantagepoint Payments: AP Automation (an integration between Vantagepoint and Corpay) to simplify and automate U.S. dollar payments to your vendors. When you process vendor payments in Vantagepoint, you securely send Corpay a text (.txt) file that contains information from the vendor payment run. Corpay then uses the information in this file to pay your vendors.
 
