@@ -30,3 +30,7 @@ This is for testing purposes only. Thanks!
 1. Step One
 2. Step Two
 3. Step Three
+
+## Test Case 9: Validate Blockquote Formatting
+
+> This is a sample note or warning message.
