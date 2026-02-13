@@ -34,3 +34,7 @@ This is for testing purposes only. Thanks!
 ## Test Case 9: Validate Blockquote Formatting
 
 > This is a sample note or warning message.
+
+## Test Case 10: Verify Inline Code Formatting
+
+Use the `git pull` command to update your local repository.
