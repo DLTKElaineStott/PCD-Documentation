@@ -15,3 +15,7 @@ This is for testing purposes only. Thanks!
 |----------|----------|
 | Value 1 | Value 2 |
 | Value 3 | Value 4 |
+
+## Test Case 7 (Image rendeing - local)
+
+![Sample Photo](/Vantagepoint%20Analysis%20Cubes%20Installation%20and%20Configuration%20Guide/images/dog.jpg)
