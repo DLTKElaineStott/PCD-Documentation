@@ -19,3 +19,14 @@ This is for testing purposes only. Thanks!
 ## Test Case 7 (Image rendeing - local)
 
 ![Sample Photo](/Vantagepoint%20Analysis%20Cubes%20Installation%20and%20Configuration%20Guide/images/dog.jpg)
+
+## Test Case 8: Check Ordered and Unordered List Formatting
+
+- Item One
+- Item Two
+  - Sub-item Two A
+  - Sub-item Two B
+
+1. Step One
+2. Step Two
+3. Step Three
