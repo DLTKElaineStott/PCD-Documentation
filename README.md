@@ -41,3 +41,7 @@ Use the `git pull` command to update your local repository.
 
 ## Test Case 5: Make Documentation Changes and Commit Case (Versioning Test Case)
 testing 1, 2, 3...
+
+## Test Case 7: Repeat Review and Merge Pull Request
+
+Mon should be able to approve the changes I made in the Readme.md file
