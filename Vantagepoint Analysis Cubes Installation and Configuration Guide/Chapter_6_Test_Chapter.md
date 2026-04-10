@@ -1,3 +1,1 @@
-# Chapter 6: Test Chapter
-
-Editing this chapter that I added.
+# Chapter 7: Testing April 10
