@@ -1,4 +1,4 @@
-# Chapter 4: Ongoing Analysis Cubes Configuration Maintenance
+# Chapter 4: Ongoing Analysis Cubes Configuration Maintenance (oops)
 
 After you initially configure Analysis Cubes, whenever you make changes to Vantagepoint System or Organization labels or to Analysis Cubes configuration settings in Vantagepoint, you must repeat some Analysis Cubes configuration steps.
 
