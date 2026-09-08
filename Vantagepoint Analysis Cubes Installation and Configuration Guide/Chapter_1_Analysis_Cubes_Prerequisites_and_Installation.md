@@ -1,9 +1,6 @@
 
 # Chapter 1: Analysis Cubes Prerequisites and Installation
 
-Update done in 2026.4 release/branch
-Update done in Bryan-Test3
-
 ## Analysis Cubes Prerequisites
 ## GitHub Testing Part 2
 ### GitHub Testing 02/10/2026
